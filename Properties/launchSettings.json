@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ResChangerCLI": {
+      "commandName": "Project",
+      "commandLineArgs": "2560 1440"
+    }
+  }
+}
